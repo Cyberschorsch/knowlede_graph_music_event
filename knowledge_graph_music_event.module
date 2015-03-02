@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Knowledge Graph Music Event feature.
+ */
+
+include_once 'knowledge_graph_music_event.features.inc';
